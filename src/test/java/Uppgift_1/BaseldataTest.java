@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class BaseldataTest {
     /**
      * Unit test of ProductionIdata class, to check if the getMainwork and GetDepartment methods return
-     * the correct values.
+     * the expected values.
      * Expected result: MainWork.Paper, "Production"
      */
     @Test
@@ -19,7 +19,7 @@ class BaseldataTest {
 
     /**
      * Unit test of DevIdata class, to check if the getMainwork and GetDepartment methods return
-     * the correct values.
+     * the expected values.
      * Expected result: MainWork.Digital, "Development"
      */
     @Test

@@ -22,9 +22,9 @@ public interface IIdata {
      * Paper: indicates that the work is done on paper.
      * Digital: indicates that the work is done digitally.
      */
-    enum MainWork {
+  enum MainWork {
        Paper,
        Digital,
-    }
+  }
 
 }

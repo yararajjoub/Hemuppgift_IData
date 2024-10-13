@@ -1,7 +1,7 @@
 package Uppgift_2;
 
 /**
- * The SudokuGenerator class generates a 4x4 Sudoku puzzle, removes numbers to create a puzzle.
+ * The SudokuGenerator class generates a 4x4 Sudoku puzzle.
  */
 
 import java.util.Random;
